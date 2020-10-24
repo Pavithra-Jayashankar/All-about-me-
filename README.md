@@ -14,7 +14,7 @@ Skills :
 Contact : pavimca216@gmail.com
 
 Blogs : 
-   •	Python Libraries: https://conquerdatascience.com/f/python-libraries-for-different-stage-in- machine-learning
-   •	Feature Selection: https://conquerdatascience.com/community-blogs/f/a-guide-on-feature- selection
-   •	Feature Engineering: https://conquerdatascience.com/community-blogs/f/a-guide-on- feature-engineering
-   •	K-means Clustering : https://conquerdatascience.com/community-blogs/f/k-means- clustering-algorithm-and-its-implementation
+   •	Python Libraries: https://conquerdatascience.com/f/python-libraries-for-different-stage-in-machine-learning
+   •	Feature Selection: https://conquerdatascience.com/community-blogs/f/a-guide-on-feature-selection
+   •	Feature Engineering: https://conquerdatascience.com/community-blogs/f/a-guide-on-feature-engineering
+   •	K-means Clustering : https://conquerdatascience.com/community-blogs/f/k-means-clustering-algorithm-and-its-implementation
